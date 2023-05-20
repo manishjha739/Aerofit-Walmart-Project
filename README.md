@@ -13,24 +13,24 @@ The Management team at Walmart Inc. wants to analyze the customer purchase behav
 The market research team at AeroFit wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to provide a better recommendation of the treadmills to the new customers
 
 ## Dataset info Aerofit 
-Product Purchased:	KP281, KP481, or KP781
-Age:	In years
-Gender:	Male/Female
-Education:	In years
-MaritalStatus:	Single or partnered
-Usage:	The average number of times the customer plans to use the treadmill each week.
-Income:	Annual income (in $)
-Fitness:	Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape.
-Miles:	The average number of miles the customer expects to walk/run each week
+1. Product Purchased:	KP281, KP481, or KP781
+2. Age:	In years
+3. Gender:	Male/Female
+4. Education:	In years
+5. MaritalStatus:	Single or partnered
+6. Usage:	The average number of times the customer plans to use the treadmill each week.
+7. Income:	Annual income (in $)
+8. Fitness:	Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape.
+9. Miles:	The average number of miles the customer expects to walk/run each week
 
 ## Dataset info Walmart 
-User_ID:	User ID
-Product_ID:	Product ID
-Gender:	Sex of User
-Age:	Age in bins
-Occupation:	Occupation(Masked)
-City_Category:	Category of the City (A,B,C)
-StayInCurrentCityYears:	Number of years stay in current city
-Marital_Status:	Marital Status
-ProductCategory:	Product Category (Masked)
-Purchase:	Purchase Amount
+1. User_ID:	User ID
+2. Product_ID:	Product ID
+3. Gender:	Sex of User
+4. Age:	Age in bins
+5. Occupation:	Occupation(Masked)
+6. City_Category:	Category of the City (A,B,C)
+7. StayInCurrentCityYears:	Number of years stay in current city
+8. Marital_Status:	Marital Status
+9. ProductCategory:	Product Category (Masked)
+10. Purchase:	Purchase Amount
