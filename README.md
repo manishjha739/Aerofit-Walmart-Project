@@ -34,3 +34,9 @@ The market research team at AeroFit wants to identify the characteristics of the
 8. Marital_Status:	Marital Status
 9. ProductCategory:	Product Category (Masked)
 10. Purchase:	Purchase Amount
+
+## Task performed during project 
+• Analyzed data to know the most valuable Customers in different categories for different products
+• Marginal Probability, Conditional Probability, Confidence interval technique are used to explore
+  the data and knowing best Customer segment for each different type of products
+• Given valuable recommendation for optimizing marketing cost and increasing sales
